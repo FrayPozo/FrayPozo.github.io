@@ -1,12 +1,42 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: This is a list of the courses I have taught in the past.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h2>Undergraduate Level</h2>
+<ul>
+<li> Pontificia Universidad Catolica Madre y Maestra (PUCMM)
+<ul> 
+    <li>Structural Analysis I</li>
+    <li>Structural Analysis II</li>
+    <li>Structural Dynamics</li>
+    <li>Concrete Design II</li>
+    <li>Bridge Design</li>
+</ul>
+</li>
 
-Organize your courses by years, topics, or universities, however you like!
+<li> Universidad Iberoamericana (UNIBE)
+<ul> 
+    <li>Formwork Design</li>
+    <li>Mechanics of Deformable Solids I</li>
+    <li>Mechanics of Deformable Solids II</li>
+    <li>Concrete Structures I</li>
+    <li>Structural Analysis I</li>
+    <li>Structural Analysis II</li>
+</ul>
+</li>
+</ul>
+
+<h2>Graduate Level</h2>
+<ul>
+    <li> Universidad Autonoma de Santo Domingo
+        <ul> 
+            <li>Numerical Methods</li>
+            <li>Precast / Prestressed Concrete</li>
+        </ul>
+    </li>
+</ul>
