@@ -6,7 +6,7 @@ description: This is a list of the courses I have taught in the past.
 nav: true
 nav_order: 5
 ---
-<p align="justify">I have taught courses at three different universities but in overal they normaly have the same structure and cover identical content. These are:</p>
+<p align="justify">I have taught courses at three different universities but in overall they have the same structure and cover identical content. These are:</p>
 <ul>
     <li>Pontificia Universidad Catolica Madre & Maestra (PUCMM)</li>
     <li>Universidad Autonoma de Santo Domingo (UASD)</li>
